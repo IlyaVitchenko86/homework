@@ -1,0 +1,14 @@
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\bin\Debug\net8.0\дз7 рекурсия.exe
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\bin\Debug\net8.0\дз7 рекурсия.deps.json
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\bin\Debug\net8.0\дз7 рекурсия.runtimeconfig.json
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\bin\Debug\net8.0\дз7 рекурсия.dll
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\bin\Debug\net8.0\дз7 рекурсия.pdb
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\дз7 рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\дз7 рекурсия.AssemblyInfoInputs.cache
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\дз7 рекурсия.AssemblyInfo.cs
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\дз7 рекурсия.csproj.CoreCompileInputs.cache
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\дз7 рекурсия.dll
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\refint\дз7 рекурсия.dll
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\дз7 рекурсия.pdb
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\дз7 рекурсия.genruntimeconfig.cache
+C:\Документы\GeekBrains\знакомство со специализацией\дз\дз7 рекурсия\obj\Debug\net8.0\ref\дз7 рекурсия.dll
